@@ -9,7 +9,7 @@ body, html {
 }
 
 #background-image {
-    background-image: url("images/background.png");
+    background-image: url("images/background.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
